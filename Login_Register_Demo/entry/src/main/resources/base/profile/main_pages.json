@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/RegisterPage",
+    "pages/ForgotPasswordPage",
+    "pages/HomePage"
+  ],
+  "window": {
+    "designWidth": 720,
+    "autoDesignWidth": true
+  }
+}
